@@ -1,4 +1,12 @@
 # Myanmar Language Dataset Collection
+This repository serves as a collection of Myanmar language datasets, focusing on both speech and text resources. Given 
+the scarcity and difficulty in finding Myanmar language datasets, our goal is to create a centralized reference point for 
+researchers, developers, and language enthusiasts. As Myanmar language resources are often challenging to locate, we 
+encourage contributions from the community. 
+
+If you know of or have access to additional Myanmar language datasets not 
+listed here, please consider contributing by submitting a pull request or opening an issue. Let's collaborate to build 
+a comprehensive inventory of Myanmar language resources.
 
 ## Myanmar Langauge Speech Dataset
 
