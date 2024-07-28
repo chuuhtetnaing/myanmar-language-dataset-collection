@@ -7,7 +7,7 @@
    - [Download Page](https://www.openslr.org/80/)
    - [Download Link](https://www.openslr.org/resources/80/my_mm_female.zip)
    - [HuggingFace Original Repository](https://huggingface.co/datasets/openslr/openslr) 
-   - [Notebook](Crowdsourced Burmese Speech Dataset/train-test-split.ipynb) (Train/Test splitting and uploading to huggingface)   
+   - [Notebook](Crowdsourced%20Burmese%20Speech%20Dataset/train-test-split.ipynb) (Train/Test splitting and uploading to huggingface)   
 
 2. BloomSpeech
    - [HuggingFace Repository](https://huggingface.co/datasets/sil-ai/bloom-speech)
