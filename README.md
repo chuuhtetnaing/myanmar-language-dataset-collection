@@ -43,4 +43,4 @@ a comprehensive inventory of Myanmar language resources.
 
 2. A Corpus of Modern Burmese
    - [Download Page](https://live.european-language-grid.eu/catalogue/corpus/940/download/)
-   - You can [download it directly](./"A Corpus of Modern Burmese/allfiles.txt") from current repo
+   - You can [download it directly](./A%20Corpus%20of%20Modern%20Burmese/allfiles.txt) from the current repo
