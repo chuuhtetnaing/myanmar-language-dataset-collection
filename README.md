@@ -27,3 +27,16 @@ a comprehensive inventory of Myanmar language resources.
 1. Asian Language Treebank (ALT)
    - [Download Page](https://www2.nict.go.jp/astrec-att/member/mutiyama/ALT/)
    - [HuggingFace Dataset](https://huggingface.co/datasets/mutiyama/alt)
+   - It supports translation between following languages:
+     - Myanmar (Burmese) To Bengali 
+     - Myanmar (Burmese) To English
+     - Myanmar (Burmese) To Filipino
+     - Myanmar (Burmese) To Hindi
+     - Myanmar (Burmese) To Bahasa Indonesia
+     - Myanmar (Burmese) To Japanese
+     - Myanmar (Burmese) To Khmer
+     - Myanmar (Burmese) To Lao
+     - Myanmar (Burmese) To Malay
+     - Myanmar (Burmese) To Thai
+     - Myanmar (Burmese) To Vietnamese
+     - Myanmar (Burmese) To Chinese (Simplified Chinese).
