@@ -40,3 +40,7 @@ a comprehensive inventory of Myanmar language resources.
      - Myanmar (Burmese) To Thai
      - Myanmar (Burmese) To Vietnamese
      - Myanmar (Burmese) To Chinese (Simplified Chinese).
+
+2. A Corpus of Modern Burmese
+   - [Download Page](https://live.european-language-grid.eu/catalogue/corpus/940/download/)
+   - You can [download it directly](./A Corpus of Modern Burmese/allfiles.txt") from current repo
