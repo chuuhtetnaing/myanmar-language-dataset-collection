@@ -40,9 +40,11 @@ a comprehensive inventory of Myanmar language resources.
      - Myanmar (Burmese) To Thai
      - Myanmar (Burmese) To Vietnamese
      - Myanmar (Burmese) To Chinese (Simplified Chinese).
-
 2. A Corpus of Modern Burmese
    - [Download Page](https://live.european-language-grid.eu/catalogue/corpus/940/download/)
    - You can [download it directly](./A%20Corpus%20of%20Modern%20Burmese/allfiles.txt) from the current repo
 3. Myanmar Spoken and Written Language Dataset
    - [HuggingFace Dataset](https://huggingface.co/datasets/kalixlouiis/myanmar-written-spoken-classification)
+4. Myanmar NRC Format Dataset
+   - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-nrc-format-dataset)
+   - [Github Repo](https://github.com/chuuhtetnaing/myanmar-nrc-format-dataset)
