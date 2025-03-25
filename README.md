@@ -48,3 +48,8 @@ a comprehensive inventory of Myanmar language resources.
 4. Myanmar NRC Format Dataset
    - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-nrc-format-dataset)
    - [Github Repo](https://github.com/chuuhtetnaing/myanmar-nrc-format-dataset)
+5. Myanmar Wikipedia Dataset
+   - Officail wikimedia/wikipedia Repo - [HuggingFace Dataset](https://huggingface.co/datasets/wikimedia/wikipedia) (subset: 20231101.my)
+   - Alternative Repo with category paths
+      - [HuggingFace Dataset](https://huggingface.co/chuuhtetnaing/myanmar-wikipedia-dataset) (subset: 20231101.my)
+      - [Github Repo](https://github.com/chuuhtetnaing/myanmar-wikipedia-dataset) with web crawler scripts/notebooks
