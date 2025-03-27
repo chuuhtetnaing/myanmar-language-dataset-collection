@@ -10,19 +10,26 @@ a comprehensive inventory of Myanmar language resources.
 
 ## Myanmar Langauge Speech Dataset
 
-1. Crowdsourced high-quality Burmese speech dataset (SLR80)
+1. Myanmar Speech Dataset for ASR
+   - This is a collection of available Myanmar speech datasets for training ASR models.
+   - Datasets in this collection:
+     - OpenSLR (See No.2)
+     - Google Fleurs (See No.4)
+   - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-speech-dataset-for-asr)
+
+2. Crowdsourced high-quality Burmese speech dataset (SLR80)
    - [Download Page](https://www.openslr.org/80/)
    - [Download Link](https://www.openslr.org/resources/80/my_mm_female.zip)
    - [HuggingFace Original Dataset](https://huggingface.co/datasets/openslr/openslr)
    - [HuggingFace Myanmar Language Only Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-speech-dataset-openslr-80)
    - [Notebook](Crowdsourced%20Burmese%20Speech%20Dataset/train-test-split.ipynb) (Train/Test splitting and uploading to huggingface)   
 
-2. BloomSpeech
+3. BloomSpeech
    - [HuggingFace Dataset](https://huggingface.co/datasets/sil-ai/bloom-speech)
    - [Notebook](BloomSpeech/load-myanmar-language.ipynb) (Loading Myanmar Language)
    - *Notes:* Although it's showing burmese, the actual `language='mya'` is Palaung (De'ang / Ta'ang / Riang) language.
 
-3. Google Fleurs
+4. Google Fleurs
    - [HuggingFace Original Dataset](https://huggingface.co/datasets/google/fleurs)
    - [HuggingFace Myanmar Language Only Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-speech-dataset-google-fleurs)
    - [Notebook](Google%20Fleurs/load-myanmar-language.ipynb) (Loading Myanmar language and uploading to huggingface)
