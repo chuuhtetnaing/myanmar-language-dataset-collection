@@ -22,6 +22,11 @@ a comprehensive inventory of Myanmar language resources.
    - [Notebook](BloomSpeech/load-myanmar-language.ipynb) (Loading Myanmar Language)
    - *Notes:* Although it's showing burmese, the actual `language='mya'` is Palaung (De'ang / Ta'ang / Riang) language.
 
+3. Google Fleurs
+   - [HuggingFace Original Dataset](https://huggingface.co/datasets/google/fleurs)
+   - [HuggingFace Myanmar Language Only Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-speech-dataset-google-fleurs)
+   - [Notebook](Google%20Fleurs/load-myanmar-language.ipynb) (Loading Myanmar language and uploading to huggingface)
+
 ## Myanmar Langauge Text Dataset
 
 1. Asian Language Treebank (ALT)
