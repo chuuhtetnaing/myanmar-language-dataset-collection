@@ -65,3 +65,5 @@ a comprehensive inventory of Myanmar language resources.
    - Alternative Repo with category paths
       - [HuggingFace Dataset](https://huggingface.co/chuuhtetnaing/myanmar-wikipedia-dataset) (subset: 20231101.my)
       - [Github Repo](https://github.com/chuuhtetnaing/myanmar-wikipedia-dataset) with web crawler scripts/notebooks
+6. Myanmar Book Corpus Dataset (MM-Lib)
+   - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/mm-lib-book-dataset)
