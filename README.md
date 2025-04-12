@@ -72,3 +72,13 @@ a comprehensive inventory of Myanmar language resources.
    - Myanmar Unicode C4 Repo
       - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-c4-dataset)
       - [Unicode Conversion Notebook](allenai-c4/convert-zawgyi-to-unicode.ipynb)
+8. Myanmar CulturaX Dataset (Converted Zawgyi to Unicode)
+    - Official CulturaX Repo - [HuggingFace Dataset](https://huggingface.co/datasets/uonlp/CulturaX)
+    - Myanmar Unicode CulturaX Repo
+        - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-culturax-dataset)
+        - [Unicode Conversion Notebook](uonlp-CulturaX/convert-zawgyi-to-unicode.ipynb)
+9. Myanmar CC100 Dataset (Converted Zawgyi to Unicode)
+    - Official CC100 Repo - [HuggingFace Dataset](https://huggingface.co/datasets/statmt/cc100)
+    - Myanmar Unicode CC100 Repo
+        - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-cc100-dataset)
+        - [Unicode Conversion Notebook](statmt-cc100/convert-zawgyi-to-unicode.ipynb)
