@@ -68,7 +68,7 @@ a comprehensive inventory of Myanmar language resources.
 6. Myanmar Book Corpus Dataset (MM-Lib)
    - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/mm-lib-book-dataset)
 7. Myanmar C4 Dataset (Converted Zawgyi to Unicode)
-  - Official C4 Repo - [HuggingFace Dataset](https://huggingface.co/datasets/allenai/c4)
-  - Myanmar Unicode C4 Repo
+   - Official C4 Repo - [HuggingFace Dataset](https://huggingface.co/datasets/allenai/c4)
+   - Myanmar Unicode C4 Repo
       - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-c4-dataset)
       - [Unicode Conversion Notebook](allenai-c4/convert-zawgyi-to-unicode.ipynb)
