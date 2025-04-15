@@ -83,4 +83,4 @@ a comprehensive inventory of Myanmar language resources.
         - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-cc100-dataset)
         - [Unicode Conversion Notebook](statmt-cc100/convert-zawgyi-to-unicode.ipynb)
 10. ChannelMyanmar Movie Summary Dataset
-   - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/channelmyanmar-movie-summary-dataset)
+    - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/channelmyanmar-movie-summary-dataset)
