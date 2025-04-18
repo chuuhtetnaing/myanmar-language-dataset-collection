@@ -84,3 +84,8 @@ a comprehensive inventory of Myanmar language resources.
         - [Unicode Conversion Notebook](statmt-cc100/convert-zawgyi-to-unicode.ipynb)
 10. ChannelMyanmar Movie Summary Dataset
     - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/channelmyanmar-movie-summary-dataset)
+11. Myanmar Fineweb2 Dataset (Converted Zawgyi to Unicode)
+    - Official Fineweb2 Repo - [HuggingFace Dataset](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2)
+    - Myanmar Unicode Fineweb2 Repo
+        - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-fineweb-2-dataset)
+        - [Unicode Conversion Notebook](fineweb-2/convert-zawgyi-to-unicode.ipynb)
