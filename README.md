@@ -89,3 +89,30 @@ a comprehensive inventory of Myanmar language resources.
     - Myanmar Unicode Fineweb2 Repo
         - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-fineweb-2-dataset)
         - [Unicode Conversion Notebook](fineweb-2/convert-zawgyi-to-unicode.ipynb)
+12. Myanmar Dhamma Article Dataset (Converted Zawgyi to Unicode)
+    - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/dhamma-article-dataset)
+    - [Notebook](Dhamma%20Dataset/dhamma-q-and-a.ipynb) (Scraping notebook)   
+13. Myanmar Dhamma Question and Answer Dataset
+    - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/dhamma-question-answer-dataset)
+    - [Notebook](Dhamma%20Dataset/dhamma-q-and-a.ipynb) (Genrating Q&A with Gemma 3)
+14. Myanmar Aya Dataset
+    - Official Aya Repo - [HuggingFace Dataset](https://huggingface.co/datasets/CohereLabs/aya_dataset)
+    - Myanmar Aya Repo
+        - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-aya-dataset)
+        - [Dataset Generting Notebook](Myanmar%20Instruction%20Tuning%20Dataset/aya-dataset.ipynb)
+15. Burmese Microbiology 1K
+    - [HuggingFace Dataset](https://huggingface.co/datasets/jojo-ai-mst/Burmese-Microbiology-1K)
+16. Mpox Myanmar
+    - [HuggingFace Dataset](https://huggingface.co/datasets/jojo-ai-mst/Mpox-Myanmar)
+17. Myanmar Agriculture 1K
+    - [HuggingFace Dataset](https://huggingface.co/datasets/jojo-ai-mst/Myanmar-Agricutlure-1K)
+18. Myanmar Instruction Tuning Dataset
+    - This is a collection of available Myanmar Question and Answer datasets for instruction fine-tuning LLM models.
+    - Datasets in this collection:
+        - Burmese Microbiology 1K (See No.15)
+        - Mpox Myanmar (See No.16)
+        - Myanmar Agriculture 1K (See No.17)
+        - Myanmar Aya Dataset (See No.14)
+        - Myanmar Dhamma Question and Answer Dataset (See No.13)
+    - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-instruction-tuning-dataset)
+    - [Dataset Generting Notebook](Myanmar%20Instruction%20Tuning%20Dataset/combined-dataset.ipynb)
