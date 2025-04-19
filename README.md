@@ -116,3 +116,8 @@ a comprehensive inventory of Myanmar language resources.
         - Myanmar Dhamma Question and Answer Dataset (See No.13)
     - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-instruction-tuning-dataset)
     - [Dataset Generting Notebook](Myanmar%20Instruction%20Tuning%20Dataset/combined-dataset.ipynb)
+19. Myanmar Social Media Sentiment Analysis Dataset
+    - Original Social Media Sentiments Analysis Dataset - [Kaggle Dataset](https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset)
+    - Myanmar Translated Dataset
+        - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-social-media-sentiment-analysis-dataset)
+        - [Translation Notebook](Social%20Media%20Sentiment%20Analysis/synthetic-data-generating.ipynb)
