@@ -122,5 +122,5 @@ a comprehensive inventory of Myanmar language resources.
         - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-social-media-sentiment-analysis-dataset)
         - [Translation Notebook](Social%20Media%20Sentiment%20Analysis/synthetic-data-generating.ipynb)
 20. myXNLI - Myanmar Natural Language Inference Corpus
-   - [HuggingFace Dataset](https://huggingface.co/datasets/akhtet/myanmar-xnli)
-   - [Github Repo](https://github.com/akhtet/myXNLI)
+    - [HuggingFace Dataset](https://huggingface.co/datasets/akhtet/myanmar-xnli)
+    - [Github Repo](https://github.com/akhtet/myXNLI)
