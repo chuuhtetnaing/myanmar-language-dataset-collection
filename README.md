@@ -114,6 +114,7 @@ a comprehensive inventory of Myanmar language resources.
         - Myanmar Agriculture 1K (See No.17)
         - Myanmar Aya Dataset (See No.14)
         - Myanmar Dhamma Question and Answer Dataset (See No.13)
+        - Myanmar Football Dataset (See No.21)
     - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-instruction-tuning-dataset)
     - [Dataset Generting Notebook](Myanmar%20Instruction%20Tuning%20Dataset/combined-dataset.ipynb)
 19. Myanmar Social Media Sentiment Analysis Dataset
@@ -124,3 +125,12 @@ a comprehensive inventory of Myanmar language resources.
 20. myXNLI - Myanmar Natural Language Inference Corpus
     - [HuggingFace Dataset](https://huggingface.co/datasets/akhtet/myanmar-xnli)
     - [Github Repo](https://github.com/akhtet/myXNLI)
+21. Myanmar Football Dataset
+    - [HuggingFace Dataset](https://huggingface.co/datasets/thisisfalse9/Myanmar_Football_Dataset)
+    - [Kaggle Dataset](https://www.kaggle.com/datasets/thefalse9/myanmar-football-dataset)
+    - [Github Repo](https://github.com/thisisfalse9/myanmar-football-dataset)
+22. Myanmar Facebook Flores Dataset
+    - Official Flores Repo - [HuggingFace Dataset](https://huggingface.co/datasets/facebook/flores)
+    - Myanmar Facebook Flores Repo
+        - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-facebook-flores-dataset)
+        - [Dataset Generting Notebook](Facebook%20Flores/load-myanmar-language.ipynb)
