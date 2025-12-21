@@ -134,3 +134,6 @@ a comprehensive inventory of Myanmar language resources.
     - Myanmar Facebook Flores Repo
         - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-facebook-flores-dataset)
         - [Dataset Generting Notebook](Facebook%20Flores/load-myanmar-language.ipynb)
+23. Myanmar Text Segmentation Dataset
+    - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-text-segmentation-dataset)
+    - [Dataset Creation Notebook](Myanmar%20Text%20Segmentation/myanmar-text-segmentation-dataset.ipynb)
