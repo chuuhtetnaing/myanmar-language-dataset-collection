@@ -137,3 +137,5 @@ a comprehensive inventory of Myanmar language resources.
 23. Myanmar Text Segmentation Dataset
     - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-text-segmentation-dataset)
     - [Dataset Creation Notebook](Myanmar%20Text%20Segmentation/myanmar-text-segmentation-dataset.ipynb)
+    - [Token Classification Fine-Tuning Notebook on this dataset](Myanmar%20Text%20Segmentation/myanmar-text-segmentation-fine-tuning.ipynb) which follows the [official token classification documentation](https://huggingface.co/docs/transformers/en/tasks/token_classification) from huggingface
+    - Can test the Token Classification in this [Huggingface Space](https://huggingface.co/spaces/chuuhtetnaing/myanmar-text-segmentation-app)
