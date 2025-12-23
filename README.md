@@ -125,6 +125,7 @@ a comprehensive inventory of Myanmar language resources.
 20. myXNLI - Myanmar Natural Language Inference Corpus
     - [HuggingFace Dataset](https://huggingface.co/datasets/akhtet/myanmar-xnli)
     - [Github Repo](https://github.com/akhtet/myXNLI)
+    - [Paper](https://arxiv.org/abs/2504.09645)
 21. Myanmar Football Dataset
     - [HuggingFace Dataset](https://huggingface.co/datasets/thisisfalse9/Myanmar_Football_Dataset)
     - [Kaggle Dataset](https://www.kaggle.com/datasets/thefalse9/myanmar-football-dataset)
