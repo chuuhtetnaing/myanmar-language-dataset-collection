@@ -115,6 +115,7 @@ a comprehensive inventory of Myanmar language resources.
         - Myanmar Aya Dataset (See No.14)
         - Myanmar Dhamma Question and Answer Dataset (See No.13)
         - Myanmar Football Dataset (See No.21)
+        - Myanmar QnA Dataset v1 (See No.24)
     - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-instruction-tuning-dataset)
     - [Dataset Generting Notebook](Myanmar%20Instruction%20Tuning%20Dataset/combined-dataset.ipynb)
 19. Myanmar Social Media Sentiment Analysis Dataset
@@ -140,3 +141,11 @@ a comprehensive inventory of Myanmar language resources.
     - [Dataset Creation Notebook](Myanmar%20Text%20Segmentation/myanmar-text-segmentation-dataset.ipynb)
     - [Token Classification Fine-Tuning Notebook on this dataset](Myanmar%20Text%20Segmentation/myanmar-text-segmentation-fine-tuning.ipynb) which follows the [official token classification documentation](https://huggingface.co/docs/transformers/en/tasks/token_classification) from huggingface
     - Can test the Token Classification in this [Huggingface Space](https://huggingface.co/spaces/chuuhtetnaing/myanmar-text-segmentation-app)
+24. Myanmar QnA Dataset v1
+    - [HuggingFace Dataset](https://huggingface.co/datasets/freococo/myanmar_qna_dataset)
+25. Myanmar POS Dataset
+    - Official myPOS HuggingFace Dataset Repo - [HuggingFace Dataset](https://huggingface.co/datasets/LULab/myPOS)
+    - Official myPOS GitHub Repo - [Github Repo](https://github.com/ye-kyaw-thu/myPOS)
+    - Preprocessed and Cleanup Dataset Repo 
+        - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-pos-dataset)
+        - [Dataset Creation Notebook](myPOS/dataset-preparation.ipynb)
