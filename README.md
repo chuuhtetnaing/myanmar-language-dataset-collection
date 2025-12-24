@@ -144,10 +144,15 @@ a comprehensive inventory of Myanmar language resources.
 24. Myanmar QnA Dataset v1
     - [HuggingFace Dataset](https://huggingface.co/datasets/freococo/myanmar_qna_dataset)
 25. Myanmar POS Dataset
-    - Official myPOS HuggingFace Dataset Repo - [HuggingFace Dataset](https://huggingface.co/datasets/LULab/myPOS)
+    - Original myPOS HuggingFace Dataset Repo - [HuggingFace Dataset](https://huggingface.co/datasets/LULab/myPOS)
     - Official myPOS GitHub Repo - [Github Repo](https://github.com/ye-kyaw-thu/myPOS)
     - Preprocessed and Cleanup Dataset Repo 
         - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-pos-dataset)
         - [Dataset Creation Notebook](myPOS/myanmar-pos-dataset-preparation.ipynb)
         - [Token Classification Fine-Tuning Notebook on this dataset](myPOS/myanmar-pos-fine-tuning.ipynb) which follows the [official token classification documentation](https://huggingface.co/docs/transformers/en/tasks/token_classification) from huggingface
         - Can test the POS Tagging in this [Huggingface Space](https://huggingface.co/spaces/chuuhtetnaing/myanmar-pos-app)
+26. Myanmar-English News Translation Dataset
+    - Original HuggingFace Dataset Repo - [HuggingFace Dataset](https://huggingface.co/datasets/Francis-Phone/mm_eng_news_translation)
+    - Preprocessed and Cleanup Dataset Repo 
+        - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-english-news-translation-dataset)
+        - [Dataset Creation Notebook](MM-ENG-News-Translation/dataset-preparation.ipynb)
