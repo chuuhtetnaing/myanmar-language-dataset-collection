@@ -148,4 +148,6 @@ a comprehensive inventory of Myanmar language resources.
     - Official myPOS GitHub Repo - [Github Repo](https://github.com/ye-kyaw-thu/myPOS)
     - Preprocessed and Cleanup Dataset Repo 
         - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-pos-dataset)
-        - [Dataset Creation Notebook](myPOS/dataset-preparation.ipynb)
+        - [Dataset Creation Notebook](myPOS/myanmar-pos-dataset-preparation.ipynb)
+        - [Token Classification Fine-Tuning Notebook on this dataset](myPOS/myanmar-pos-fine-tuning.ipynb) which follows the [official token classification documentation](https://huggingface.co/docs/transformers/en/tasks/token_classification) from huggingface
+        - Can test the POS Tagging in this [Huggingface Space](https://huggingface.co/spaces/chuuhtetnaing/myanmar-pos-app)
