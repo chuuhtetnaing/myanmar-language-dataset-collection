@@ -15,6 +15,7 @@ a comprehensive inventory of Myanmar language resources.
    - Datasets in this collection:
      - OpenSLR (See No.2)
      - Google Fleurs (See No.4)
+     - MIG Burmese Audio (See No.5)
    - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-speech-dataset-for-asr)
 
 2. Crowdsourced high-quality Burmese speech dataset (SLR80)
@@ -33,6 +34,9 @@ a comprehensive inventory of Myanmar language resources.
    - [HuggingFace Original Dataset](https://huggingface.co/datasets/google/fleurs)
    - [HuggingFace Myanmar Language Only Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-speech-dataset-google-fleurs)
    - [Notebook](Google%20Fleurs/load-myanmar-language.ipynb) (Loading Myanmar language and uploading to huggingface)
+
+5. MIG Burmese Audio
+   - [HuggingFace Dataset](https://huggingface.co/datasets/Ko-Yin-Maung/mig-burmese-audio-transcription)
 
 ## Myanmar Langauge Text Dataset
 
