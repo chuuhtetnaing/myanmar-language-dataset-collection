@@ -160,3 +160,8 @@ a comprehensive inventory of Myanmar language resources.
     - Preprocessed and Cleanup Dataset Repo 
         - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-english-news-translation-dataset)
         - [Dataset Creation Notebook](MM-ENG-News-Translation/dataset-preparation.ipynb)
+26. Myanmar OCR Datasets
+    - [Myanmar OCR Dataset (7.6M)](https://huggingface.co/datasets/chuuhtetnaing/myanmar-ocr-dataset)
+    - myOCR Dataset (23.9K)
+      - [Preprocessed HuggingFace Image Dataset](https://huggingface.co/datasets/chuuhtetnaing/myOCR)
+      - [Original Dataset](https://huggingface.co/datasets/LULab/myOCR)
