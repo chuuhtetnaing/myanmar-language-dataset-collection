@@ -165,3 +165,4 @@ a comprehensive inventory of Myanmar language resources.
     - myOCR Dataset (23.9K)
       - [Preprocessed HuggingFace Image Dataset](https://huggingface.co/datasets/chuuhtetnaing/myOCR)
       - [Original Dataset](https://huggingface.co/datasets/LULab/myOCR)
+      - [Original GitHub Repo](https://github.com/ye-kyaw-thu/myOCR)
