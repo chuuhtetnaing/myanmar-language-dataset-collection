@@ -168,4 +168,5 @@ a comprehensive inventory of Myanmar language resources.
       - [Original GitHub Repo](https://github.com/ye-kyaw-thu/myOCR)
 27. Myanmar Words POS Dataset
     - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-words-pos-dataset)
+    - [Dataset Creation Notebook](Myanmar%20Words%20POS/dataset-preparation.ipynb)
     - [Github Repo](https://github.com/myanmartools/myanmar-words)
