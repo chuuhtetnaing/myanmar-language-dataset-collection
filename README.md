@@ -170,3 +170,10 @@ a comprehensive inventory of Myanmar language resources.
     - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-words-pos-dataset)
     - [Dataset Creation Notebook](Myanmar%20Words%20POS/dataset-preparation.ipynb)
     - [Github Repo](https://github.com/myanmartools/myanmar-words)
+28. Myanmar NER Dataset
+    - Official myNER GitHub Repo - [Github Repo](https://github.com/ye-kyaw-thu/myNER)
+    - Preprocessed and Cleanup Dataset Repo 
+        - [HuggingFace Dataset](https://huggingface.co/datasets/chuuhtetnaing/myanmar-ner-dataset)
+        - [Dataset Creation Notebook](myPOS/dataset-preparation.ipynb)
+        - [Token Classification Fine-Tuning Notebook on this dataset](myPOS/myanmar-ner-fine-tuning.ipynb) which follows the [official token classification documentation](https://huggingface.co/docs/transformers/en/tasks/token_classification) from huggingface
+        - Can test the NER Tagging in this [Huggingface Space](https://huggingface.co/spaces/chuuhtetnaing/myanmar-ner-app)
